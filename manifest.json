@@ -1,9 +1,9 @@
 {
-  "versao": "8.0.0",
+  "versao": "9.0.0_RARIDADES",
   "status_servidor": "SAFE",
   "data_update": "24/02/2026",
-  "aviso_equipe": "MECÂNICO ONLINE: T5 e T4 Atualizados.",
-  "carros_seguros": [
+  "aviso_equipe": "RELÍQUIAS LIBERADAS: Supra F&F, Skyline R34 e Centenário.",
+  "carros_normais": [
     {
       "id": "FerrariF8Spider2020",
       "nome": "Ferrari F8 Spider"
@@ -11,14 +11,30 @@
     {
       "id": "RimacNevera2022",
       "nome": "Rimac Nevera"
+    }
+  ],
+  "carros_reliquias_FF": [
+    {
+      "id": "ToyotaSupraBrian",
+      "nome": "Toyota Supra (Fast & Furious)"
     },
     {
-      "id": "HondaNSXTypeR1992",
-      "nome": "Honda NSX-R"
+      "id": "NissanSkylineR34Brian",
+      "nome": "Nissan Skyline GT-R R34 (F&F)"
     },
     {
-      "id": "LexusLC5002018",
-      "nome": "Lexus LC 500"
+      "id": "DodgeChargerRTFandF",
+      "nome": "Dodge Charger R/T (F&F)"
+    }
+  ],
+  "carros_raros_shop": [
+    {
+      "id": "LamborghiniCentenario",
+      "nome": "Lamborghini Centenário (Blue)"
+    },
+    {
+      "id": "MazdaRX7RocketBunny",
+      "nome": "Mazda RX-7 Rocket Bunny (Hidden Edition)"
     }
   ],
   "pecas_universais": [
@@ -29,6 +45,10 @@
     {
       "id": "S6_Nitrous_Universal",
       "nome": "Nitro S6"
+    },
+    {
+      "id": "S6_Body_Universal",
+      "nome": "Corpo S6"
     }
   ]
 }
