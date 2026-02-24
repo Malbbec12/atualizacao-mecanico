@@ -1,0 +1,12 @@
+{
+  "versao": "6.3.0",
+  "data_update": "24/02/2026",
+  "status_servidor": "SAFE",
+  "limite_money": 85000000,
+  "carros_novos": [
+    {"id": "Ferrari_F8_Spider_2026", "nome": "Ferrari F8 Spider"},
+    {"id": "Rimac_Nevera_2026", "nome": "Rimac Nevera"},
+    {"id": "Porsche_919Street_2020", "nome": "Porsche 919 Street"}
+  ],
+  "aviso_equipe": "Mecânico: Injeção liberada para a nova temporada."
+}
