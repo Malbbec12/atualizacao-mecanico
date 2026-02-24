@@ -1,9 +1,6 @@
 {
-  "versao": "9.0.0_RARIDADES",
-  "status_servidor": "SAFE",
-  "data_update": "24/02/2026",
-  "aviso_equipe": "RELÍQUIAS LIBERADAS: Supra F&F, Skyline R34 e Centenário.",
-  "carros_normais": [
+  "versao": "10.0_FULL",
+  "carros": [
     {
       "id": "FerrariF8Spider2020",
       "nome": "Ferrari F8 Spider"
@@ -11,44 +8,26 @@
     {
       "id": "RimacNevera2022",
       "nome": "Rimac Nevera"
-    }
-  ],
-  "carros_reliquias_FF": [
+    },
     {
       "id": "ToyotaSupraBrian",
-      "nome": "Toyota Supra (Fast & Furious)"
+      "nome": "Toyota Supra F&F"
     },
     {
       "id": "NissanSkylineR34Brian",
-      "nome": "Nissan Skyline GT-R R34 (F&F)"
+      "nome": "Nissan Skyline R34 F&F"
     },
     {
-      "id": "DodgeChargerRTFandF",
-      "nome": "Dodge Charger R/T (F&F)"
+      "id": "LamborghiniRevuelto2024",
+      "nome": "Lamborghini Revuelto"
+    },
+    {
+      "id": "BugattiBolide2021",
+      "nome": "Bugatti Bolide"
     }
   ],
-  "carros_raros_shop": [
-    {
-      "id": "LamborghiniCentenario",
-      "nome": "Lamborghini Centenário (Blue)"
-    },
-    {
-      "id": "MazdaRX7RocketBunny",
-      "nome": "Mazda RX-7 Rocket Bunny (Hidden Edition)"
-    }
-  ],
-  "pecas_universais": [
-    {
-      "id": "S6_Engine_Universal",
-      "nome": "Motor S6"
-    },
-    {
-      "id": "S6_Nitrous_Universal",
-      "nome": "Nitro S6"
-    },
-    {
-      "id": "S6_Body_Universal",
-      "nome": "Corpo S6"
-    }
-  ]
+  "recursos": {
+    "cash_max": 99999999,
+    "gold_max": 50000
+  }
 }
