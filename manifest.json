@@ -1,5 +1,5 @@
 {
-  "versao": "17.0_SUPER_PACK",
+  "versao": "20.0_ULTIMATE_PACK",
   "carros": [
     {
       "id": "FerrariF8Spider2020",
@@ -26,20 +26,20 @@
       "nome": "Lamborghini Revuelto"
     },
     {
-      "id": "ToyotaSupraBrian",
-      "nome": "Toyota Supra (F&F)"
-    },
-    {
-      "id": "NissanSkylineR34Brian",
-      "nome": "Nissan Skyline R34 (F&F)"
-    },
-    {
       "id": "KoenigseggJesko2020",
       "nome": "Koenigsegg Jesko Absolut"
     },
     {
       "id": "MclarenSolusGT2023",
       "nome": "McLaren Solus GT"
+    },
+    {
+      "id": "ToyotaSupraBrian",
+      "nome": "Toyota Supra (F&F)"
+    },
+    {
+      "id": "NissanSkylineR34Brian",
+      "nome": "Nissan Skyline R34 (F&F)"
     },
     {
       "id": "FordMustangHoonicorn",
