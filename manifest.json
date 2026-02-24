@@ -1,5 +1,5 @@
 {
-  "versao": "10.0_FULL",
+  "versao": "15.0_GIGA_PACK",
   "carros": [
     {
       "id": "FerrariF8Spider2020",
@@ -10,24 +10,110 @@
       "nome": "Rimac Nevera"
     },
     {
-      "id": "ToyotaSupraBrian",
-      "nome": "Toyota Supra F&F"
-    },
-    {
-      "id": "NissanSkylineR34Brian",
-      "nome": "Nissan Skyline R34 F&F"
-    },
-    {
       "id": "LamborghiniRevuelto2024",
       "nome": "Lamborghini Revuelto"
     },
     {
       "id": "BugattiBolide2021",
       "nome": "Bugatti Bolide"
+    },
+    {
+      "id": "KoenigseggJesko2020",
+      "nome": "Koenigsegg Jesko Absolut"
+    },
+    {
+      "id": "MclarenSolusGT2023",
+      "nome": "McLaren Solus GT"
+    },
+    {
+      "id": "PaganiUtopia2023",
+      "nome": "Pagani Utopia"
+    },
+    {
+      "id": "AstonMartinValkyrie2021",
+      "nome": "Aston Martin Valkyrie"
+    },
+    {
+      "id": "ToyotaSupraBrian",
+      "nome": "Toyota Supra (F&F - Brian)"
+    },
+    {
+      "id": "NissanSkylineR34Brian",
+      "nome": "Nissan Skyline R34 (F&F)"
+    },
+    {
+      "id": "DodgeChargerRTFandF",
+      "nome": "Dodge Charger R/T (F&F)"
+    },
+    {
+      "id": "FlipCarFast9",
+      "nome": "Flip Car (F9)"
+    },
+    {
+      "id": "MazdaRX7Veilside",
+      "nome": "Mazda RX-7 Veilside (Han)"
+    },
+    {
+      "id": "LamborghiniCentenario",
+      "nome": "Lamborghini Centenário (Evento)"
+    },
+    {
+      "id": "FerrariLaFerrari",
+      "nome": "Ferrari LaFerrari (Flash)"
+    },
+    {
+      "id": "Porsche918SpyderMartini",
+      "nome": "Porsche 918 Spyder (Martini)"
+    },
+    {
+      "id": "BugattiLaVoitureNoire",
+      "nome": "Bugatti La Voiture Noire"
+    },
+    {
+      "id": "HondaNSXTypeR1992",
+      "nome": "Honda NSX-R (Legends)"
+    },
+    {
+      "id": "LexusLC5002018",
+      "nome": "Lexus LC 500 (Elite)"
+    },
+    {
+      "id": "NissanSilviaS15Rocket",
+      "nome": "Nissan Silvia S15 (Rocket Bunny)"
+    },
+    {
+      "id": "FordMustangHoonicorn",
+      "nome": "Ford Mustang Hoonicorn"
     }
   ],
-  "recursos": {
-    "cash_max": 99999999,
-    "gold_max": 50000
-  }
+  "pecas_s6": [
+    {
+      "id": "S6_Engine_Universal",
+      "nome": "Motor Nível 6"
+    },
+    {
+      "id": "S6_Turbo_Universal",
+      "nome": "Turbo Nível 6"
+    },
+    {
+      "id": "S6_Nitrous_Universal",
+      "nome": "Nitro Nível 6"
+    },
+    {
+      "id": "S6_Body_Universal",
+      "nome": "Corpo Nível 6"
+    },
+    {
+      "id": "S6_Tires_Universal",
+      "nome": "Pneus Nível 6"
+    },
+    {
+      "id": "S6_Trans_Universal",
+      "nome": "Câmbio Nível 6"
+    },
+    {
+      "id": "S6_Intake_Universal",
+      "nome": "Intake Nível 6"
+    }
+  ]
 }
