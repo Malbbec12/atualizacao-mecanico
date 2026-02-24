@@ -1,5 +1,5 @@
 {
-  "versao": "30.0_JORNAL_PESADO",
+  "versao": "40.0_JORNAL_PESADO_FULL",
   "carros": [
     {
       "id": "FerrariLaFerrari",
@@ -34,16 +34,24 @@
       "nome": "Hennessey Venom F5"
     },
     {
-      "id": "BugattiChironPurSport2020",
-      "nome": "Bugatti Chiron Pur Sport"
+      "id": "BugattiLaVoitureNoire",
+      "nome": "Bugatti La Voiture Noire"
     },
     {
-      "id": "AstonMartinValkyrie2021",
-      "nome": "Aston Martin Valkyrie"
+      "id": "MclarenSenna",
+      "nome": "McLaren Senna"
     },
     {
-      "id": "KoenigseggGemera2020",
-      "nome": "Koenigsegg Gemera"
+      "id": "FerrariSF90Stradale",
+      "nome": "Ferrari SF90 Stradale"
+    },
+    {
+      "id": "LamboSianFKP37",
+      "nome": "Lamborghini Si\u00e1n FKP 37"
+    },
+    {
+      "id": "Porsche918Spyder",
+      "nome": "Porsche 918 Spyder"
     },
     {
       "id": "ToyotaSupraBrian",
@@ -62,12 +70,16 @@
       "nome": "Mazda RX-7 Veilside (Han)"
     },
     {
+      "id": "MitsubishiEclipseBrian",
+      "nome": "Mitsubishi Eclipse (Brian)"
+    },
+    {
       "id": "FlipCarFast9",
       "nome": "Flip Car (Fast 9)"
     },
     {
-      "id": "MitsubishiEclipseBrian",
-      "nome": "Mitsubishi Eclipse (Brian)"
+      "id": "GurkhaLAPVFast5",
+      "nome": "Gurkha LAPV (Fast 5)"
     },
     {
       "id": "ToyotaSupra2020",
@@ -78,170 +90,70 @@
       "nome": "Nissan Skyline R34 (Tuners)"
     },
     {
-      "id": "NissanSilviaS15Tuners",
-      "nome": "Nissan Silvia S15 (Tuners)"
-    },
-    {
-      "id": "SubaruWRXSTI2017",
-      "nome": "Subaru WRX STI (Tuners)"
-    },
-    {
-      "id": "LexusLC5002018",
-      "nome": "Lexus LC 500 (Tuners)"
+      "id": "HondaNSXTypeR1992",
+      "nome": "Honda NSX-R (Legends)"
     },
     {
       "id": "McLarenF1_1993",
       "nome": "McLaren F1 (Legends)"
     },
     {
-      "id": "SaleenS7TwinTurbo2004",
-      "nome": "Saleen S7 (Legends)"
-    },
-    {
-      "id": "JaguarXJ220_1992",
-      "nome": "Jaguar XJ220 (Legends)"
-    },
-    {
-      "id": "BugattiEB110SS_1992",
-      "nome": "Bugatti EB110 (Legends)"
-    },
-    {
       "id": "Ferrari250GTO_1962",
       "nome": "Ferrari 250 GTO (Legends)"
+    },
+    {
+      "id": "ShelbyGT500_2020",
+      "nome": "Shelby GT500"
     },
     {
       "id": "FordMustangHoonicorn",
       "nome": "Ford Mustang Hoonicorn"
     },
     {
-      "id": "HondaNSXTypeR1992",
-      "nome": "Honda NSX-R (T4)"
-    },
-    {
-      "id": "BMW_M4_G82_2021",
-      "nome": "BMW M4 G82"
-    },
-    {
-      "id": "AudiRS6Avant2020",
-      "nome": "Audi RS6 Avant"
+      "id": "MercedesAMGOne",
+      "nome": "Mercedes-AMG One"
     },
     {
       "id": "Porsche911GT3RS",
       "nome": "Porsche 911 GT3 RS"
     },
     {
-      "id": "Porsche918Spyder",
-      "nome": "Porsche 918 Spyder"
-    },
-    {
-      "id": "PorscheTaycanTurboS",
-      "nome": "Porsche Taycan Turbo S"
-    },
-    {
-      "id": "Porsche911RWB",
-      "nome": "Porsche 911 RWB (Apple)"
-    },
-    {
-      "id": "LamboAventadorSVJ",
-      "nome": "Lamborghini Aventador SVJ"
-    },
-    {
-      "id": "LamboHuracanSTO",
-      "nome": "Lamborghini Hurac\u00e1n STO"
-    },
-    {
-      "id": "LamboSianFKP37",
-      "nome": "Lamborghini Si\u00e1n FKP 37"
-    },
-    {
-      "id": "LamboVeneno",
-      "nome": "Lamborghini Veneno"
-    },
-    {
-      "id": "LamboCountachLPI800",
-      "nome": "Lamborghini Countach LPI 800-4"
-    },
-    {
-      "id": "FerrariSF90Stradale",
-      "nome": "Ferrari SF90 Stradale"
-    },
-    {
-      "id": "Ferrari812Superfast",
-      "nome": "Ferrari 812 Superfast"
-    },
-    {
-      "id": "Ferrari488Pista",
-      "nome": "Ferrari 488 Pista"
-    },
-    {
-      "id": "FerrariEnzo",
-      "nome": "Ferrari Enzo (Legends)"
-    },
-    {
-      "id": "MclarenSenna",
-      "nome": "McLaren Senna"
-    },
-    {
-      "id": "Mclaren720S",
-      "nome": "McLaren 720S"
-    },
-    {
-      "id": "MclarenP1GTR",
-      "nome": "McLaren P1 GTR"
-    },
-    {
-      "id": "MclarenElva",
-      "nome": "McLaren Elva"
-    },
-    {
       "id": "AudiR8V10Performance",
-      "nome": "Audi R8 V10 Performance"
+      "nome": "Audi R8 V10"
     },
     {
       "id": "BMWM8Coupe",
       "nome": "BMW M8 Coupe"
     },
     {
-      "id": "MercedesAMGOne",
-      "nome": "Mercedes-AMG One"
-    },
-    {
-      "id": "MercedesAMGGTBlackSeries",
-      "nome": "Mercedes-AMG GT Black Series"
-    },
-    {
-      "id": "BentleyContinentalGT",
-      "nome": "Bentley Continental GT"
-    },
-    {
       "id": "BentleyMullinerBacalar",
-      "nome": "Bentley Mulliner Bacalar"
+      "nome": "Bentley Bacalar"
+    },
+    {
+      "id": "LexusLC5002018",
+      "nome": "Lexus LC 500"
+    },
+    {
+      "id": "AudiRS6Avant2020",
+      "nome": "Audi RS6 Avant"
     }
   ],
   "fusoes_epicas": [
     {
+      "id": "Fusion_Epic_Universal",
+      "nome": "Fus\u00e3o Universal"
+    },
+    {
       "id": "Fusion_Epic_Ferrari",
-      "nome": "Fus\u00e3o Vermelha Ferrari"
+      "nome": "Fus\u00e3o Ferrari"
     },
     {
       "id": "Fusion_Epic_Bugatti",
-      "nome": "Fus\u00e3o Vermelha Bugatti"
+      "nome": "Fus\u00e3o Bugatti"
     },
     {
       "id": "Fusion_Epic_Lambo",
-      "nome": "Fus\u00e3o Vermelha Lamborghini"
-    },
-    {
-      "id": "Fusion_Epic_Toyota",
-      "nome": "Fus\u00e3o Vermelha Toyota"
-    },
-    {
-      "id": "Fusion_Epic_Nissan",
-      "nome": "Fus\u00e3o Vermelha Nissan"
-    },
-    {
-      "id": "Fusion_Epic_Universal",
-      "nome": "Fus\u00e3o Vermelha Universal"
+      "nome": "Fus\u00e3o Lamborghini"
     }
   ]
 }
