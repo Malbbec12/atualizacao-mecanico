@@ -1,12 +1,30 @@
 {
   "versao": "6.3.0",
-  "data_update": "24/02/2026",
   "status_servidor": "SAFE",
+  "data_update": "24/02/2026",
   "limite_money": 85000000,
-  "carros_novos": [
-    {"id": "Ferrari_F8_Spider_2026", "nome": "Ferrari F8 Spider"},
-    {"id": "Rimac_Nevera_2026", "nome": "Rimac Nevera"},
-    {"id": "Porsche_919Street_2020", "nome": "Porsche 919 Street"}
+  "limite_gold": 50000,
+  "carros_elite_season": [
+    {"id": "FerrariF8Spider2020", "nome": "Ferrari F8 Spider"},
+    {"id": "RimacNevera2022", "nome": "Rimac Nevera"},
+    {"id": "Porsche919Street2020", "nome": "Porsche 919 Street"},
+    {"id": "LamborghiniRevuelto2024", "nome": "Lamborghini Revuelto"},
+    {"id": "KoenigseggJesko2020", "nome": "Koenigsegg Jesko Absolut"},
+    {"id": "BugattiBolide2021", "nome": "Bugatti Bolide"}
   ],
-  "aviso_equipe": "Mecânico: Injeção liberada para a nova temporada."
+  "pecas_full_s6": [
+    {"id": "S6_Engine_Universal", "nome": "Motor Nível 6"},
+    {"id": "S6_Turbo_Universal", "nome": "Turbo Nível 6"},
+    {"id": "S6_Intake_Universal", "nome": "Intake Nível 6"},
+    {"id": "S6_Nitrous_Universal", "nome": "Nitro Nível 6"},
+    {"id": "S6_Body_Universal", "nome": "Corpo Nível 6"},
+    {"id": "S6_Tires_Universal", "nome": "Pneus Nível 6"},
+    {"id": "S6_Trans_Universal", "nome": "Câmbio Nível 6"}
+  ],
+  "fusoes_master": [
+    {"id": "Fusion_Epic_Universal", "nome": "Fusão Épica (Rosa)"},
+    {"id": "Fusion_Rare_Universal", "nome": "Fusão Rara (Azul)"},
+    {"id": "Fusion_Common_Universal", "nome": "Fusão Comum (Verde)"}
+  ],
+  "aviso_mecanico": "FULL S6 E FUSÕES LIBERADAS. Cuidado ao injetar tudo de uma vez."
 }
