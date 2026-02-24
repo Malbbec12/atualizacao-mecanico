@@ -1,49 +1,129 @@
 {
-  "versao": "20.0_ULTIMATE_PACK",
+  "versao": "25.0_MEGA_OFFICE",
   "carros": [
     {
-      "id": "FerrariF8Spider2020",
-      "nome": "Ferrari F8 Spider"
-    },
-    {
       "id": "FerrariLaFerrari",
-      "nome": "Ferrari LaFerrari (Flash)"
+      "nome": "Ferrari LaFerrari"
     },
     {
       "id": "BugattiBolide2021",
       "nome": "Bugatti Bolide"
     },
     {
-      "id": "BugattiLaVoitureNoire",
-      "nome": "Bugatti La Voiture Noire"
+      "id": "KoenigseggJesko2020",
+      "nome": "Koenigsegg Jesko Absolut"
     },
     {
       "id": "RimacNevera2022",
       "nome": "Rimac Nevera"
     },
     {
-      "id": "LamborghiniRevuelto2024",
-      "nome": "Lamborghini Revuelto"
-    },
-    {
-      "id": "KoenigseggJesko2020",
-      "nome": "Koenigsegg Jesko Absolut"
-    },
-    {
       "id": "MclarenSolusGT2023",
       "nome": "McLaren Solus GT"
     },
     {
+      "id": "LamborghiniRevuelto2024",
+      "nome": "Lamborghini Revuelto"
+    },
+    {
+      "id": "PaganiUtopia2023",
+      "nome": "Pagani Utopia"
+    },
+    {
+      "id": "HennesseyVenomF5_2021",
+      "nome": "Hennessey Venom F5"
+    },
+    {
+      "id": "BugattiChironPurSport2020",
+      "nome": "Bugatti Chiron Pur Sport"
+    },
+    {
+      "id": "AstonMartinValkyrie2021",
+      "nome": "Aston Martin Valkyrie"
+    },
+    {
+      "id": "KoenigseggGemera2020",
+      "nome": "Koenigsegg Gemera"
+    },
+    {
       "id": "ToyotaSupraBrian",
-      "nome": "Toyota Supra (F&F)"
+      "nome": "Toyota Supra (Brian)"
     },
     {
       "id": "NissanSkylineR34Brian",
-      "nome": "Nissan Skyline R34 (F&F)"
+      "nome": "Skyline R34 (Brian)"
+    },
+    {
+      "id": "DodgeChargerRTFandF",
+      "nome": "Dodge Charger R/T (Dom)"
+    },
+    {
+      "id": "MazdaRX7Veilside",
+      "nome": "Mazda RX-7 Veilside (Han)"
+    },
+    {
+      "id": "FlipCarFast9",
+      "nome": "Flip Car (Fast 9)"
+    },
+    {
+      "id": "MitsubishiEclipseBrian",
+      "nome": "Mitsubishi Eclipse (Brian)"
+    },
+    {
+      "id": "ToyotaSupra2020",
+      "nome": "Toyota GR Supra (Tuners)"
+    },
+    {
+      "id": "NissanSkylineR34Tuners",
+      "nome": "Nissan Skyline R34 (Tuners)"
+    },
+    {
+      "id": "NissanSilviaS15Tuners",
+      "nome": "Nissan Silvia S15 (Tuners)"
+    },
+    {
+      "id": "SubaruWRXSTI2017",
+      "nome": "Subaru WRX STI (Tuners)"
+    },
+    {
+      "id": "LexusLC5002018",
+      "nome": "Lexus LC 500 (Tuners)"
+    },
+    {
+      "id": "McLarenF1_1993",
+      "nome": "McLaren F1 (Legends)"
+    },
+    {
+      "id": "SaleenS7TwinTurbo2004",
+      "nome": "Saleen S7 (Legends)"
+    },
+    {
+      "id": "JaguarXJ220_1992",
+      "nome": "Jaguar XJ220 (Legends)"
+    },
+    {
+      "id": "BugattiEB110SS_1992",
+      "nome": "Bugatti EB110 (Legends)"
+    },
+    {
+      "id": "Ferrari250GTO_1962",
+      "nome": "Ferrari 250 GTO (Legends)"
     },
     {
       "id": "FordMustangHoonicorn",
       "nome": "Ford Mustang Hoonicorn"
+    },
+    {
+      "id": "HondaNSXTypeR1992",
+      "nome": "Honda NSX-R (T4)"
+    },
+    {
+      "id": "BMW_M4_G82_2021",
+      "nome": "BMW M4 G82"
+    },
+    {
+      "id": "AudiRS6Avant2020",
+      "nome": "Audi RS6 Avant"
     }
   ],
   "fusoes_epicas": [
@@ -62,6 +142,14 @@
     {
       "id": "Fusion_Epic_Toyota",
       "nome": "Fus\u00e3o Vermelha Toyota"
+    },
+    {
+      "id": "Fusion_Epic_Nissan",
+      "nome": "Fus\u00e3o Vermelha Nissan"
+    },
+    {
+      "id": "Fusion_Epic_Universal",
+      "nome": "Fus\u00e3o Vermelha Universal"
     }
   ]
 }
