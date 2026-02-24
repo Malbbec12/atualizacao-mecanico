@@ -1,9 +1,21 @@
 {
-  "versao": "16.0_ULTIMATE_COLLECTION",
+  "versao": "17.0_SUPER_PACK",
   "carros": [
     {
       "id": "FerrariF8Spider2020",
       "nome": "Ferrari F8 Spider"
+    },
+    {
+      "id": "FerrariLaFerrari",
+      "nome": "Ferrari LaFerrari (Flash)"
+    },
+    {
+      "id": "BugattiBolide2021",
+      "nome": "Bugatti Bolide"
+    },
+    {
+      "id": "BugattiLaVoitureNoire",
+      "nome": "Bugatti La Voiture Noire"
     },
     {
       "id": "RimacNevera2022",
@@ -14,14 +26,6 @@
       "nome": "Lamborghini Revuelto"
     },
     {
-      "id": "BugattiBolide2021",
-      "nome": "Bugatti Bolide"
-    },
-    {
-      "id": "KoenigseggJesko2020",
-      "nome": "Koenigsegg Jesko Absolut"
-    },
-    {
       "id": "ToyotaSupraBrian",
       "nome": "Toyota Supra (F&F)"
     },
@@ -30,52 +34,34 @@
       "nome": "Nissan Skyline R34 (F&F)"
     },
     {
+      "id": "KoenigseggJesko2020",
+      "nome": "Koenigsegg Jesko Absolut"
+    },
+    {
+      "id": "MclarenSolusGT2023",
+      "nome": "McLaren Solus GT"
+    },
+    {
       "id": "FordMustangHoonicorn",
       "nome": "Ford Mustang Hoonicorn"
-    },
-    {
-      "id": "ChevroletCamaroZ28_1969",
-      "nome": "Camaro Z28 (Legends)"
-    }
-  ],
-  "pecas_s6": [
-    {
-      "id": "S6_Engine_Universal",
-      "nome": "Motor S6 Universal"
-    },
-    {
-      "id": "S6_Nitrous_Universal",
-      "nome": "Nitro S6 Universal"
-    },
-    {
-      "id": "S6_Body_Universal",
-      "nome": "Corpo S6 Universal"
     }
   ],
   "fusoes_epicas": [
     {
       "id": "Fusion_Epic_Ferrari",
-      "nome": "Fusão Vermelha Ferrari"
-    },
-    {
-      "id": "Fusion_Epic_Lambo",
-      "nome": "Fusão Vermelha Lamborghini"
+      "nome": "Fus\u00e3o Vermelha Ferrari"
     },
     {
       "id": "Fusion_Epic_Bugatti",
-      "nome": "Fusão Vermelha Bugatti"
+      "nome": "Fus\u00e3o Vermelha Bugatti"
+    },
+    {
+      "id": "Fusion_Epic_Lambo",
+      "nome": "Fus\u00e3o Vermelha Lamborghini"
     },
     {
       "id": "Fusion_Epic_Toyota",
-      "nome": "Fusão Vermelha Toyota"
-    },
-    {
-      "id": "Fusion_Epic_Nissan",
-      "nome": "Fusão Vermelha Nissan"
-    },
-    {
-      "id": "Fusion_Epic_Universal",
-      "nome": "Fusão Vermelha Universal (Any Car)"
+      "nome": "Fus\u00e3o Vermelha Toyota"
     }
   ]
 }
