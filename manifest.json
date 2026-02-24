@@ -1,5 +1,5 @@
 {
-  "versao": "25.0_MEGA_OFFICE",
+  "versao": "30.0_JORNAL_PESADO",
   "carros": [
     {
       "id": "FerrariLaFerrari",
@@ -124,6 +124,98 @@
     {
       "id": "AudiRS6Avant2020",
       "nome": "Audi RS6 Avant"
+    },
+    {
+      "id": "Porsche911GT3RS",
+      "nome": "Porsche 911 GT3 RS"
+    },
+    {
+      "id": "Porsche918Spyder",
+      "nome": "Porsche 918 Spyder"
+    },
+    {
+      "id": "PorscheTaycanTurboS",
+      "nome": "Porsche Taycan Turbo S"
+    },
+    {
+      "id": "Porsche911RWB",
+      "nome": "Porsche 911 RWB (Apple)"
+    },
+    {
+      "id": "LamboAventadorSVJ",
+      "nome": "Lamborghini Aventador SVJ"
+    },
+    {
+      "id": "LamboHuracanSTO",
+      "nome": "Lamborghini Hurac\u00e1n STO"
+    },
+    {
+      "id": "LamboSianFKP37",
+      "nome": "Lamborghini Si\u00e1n FKP 37"
+    },
+    {
+      "id": "LamboVeneno",
+      "nome": "Lamborghini Veneno"
+    },
+    {
+      "id": "LamboCountachLPI800",
+      "nome": "Lamborghini Countach LPI 800-4"
+    },
+    {
+      "id": "FerrariSF90Stradale",
+      "nome": "Ferrari SF90 Stradale"
+    },
+    {
+      "id": "Ferrari812Superfast",
+      "nome": "Ferrari 812 Superfast"
+    },
+    {
+      "id": "Ferrari488Pista",
+      "nome": "Ferrari 488 Pista"
+    },
+    {
+      "id": "FerrariEnzo",
+      "nome": "Ferrari Enzo (Legends)"
+    },
+    {
+      "id": "MclarenSenna",
+      "nome": "McLaren Senna"
+    },
+    {
+      "id": "Mclaren720S",
+      "nome": "McLaren 720S"
+    },
+    {
+      "id": "MclarenP1GTR",
+      "nome": "McLaren P1 GTR"
+    },
+    {
+      "id": "MclarenElva",
+      "nome": "McLaren Elva"
+    },
+    {
+      "id": "AudiR8V10Performance",
+      "nome": "Audi R8 V10 Performance"
+    },
+    {
+      "id": "BMWM8Coupe",
+      "nome": "BMW M8 Coupe"
+    },
+    {
+      "id": "MercedesAMGOne",
+      "nome": "Mercedes-AMG One"
+    },
+    {
+      "id": "MercedesAMGGTBlackSeries",
+      "nome": "Mercedes-AMG GT Black Series"
+    },
+    {
+      "id": "BentleyContinentalGT",
+      "nome": "Bentley Continental GT"
+    },
+    {
+      "id": "BentleyMullinerBacalar",
+      "nome": "Bentley Mulliner Bacalar"
     }
   ],
   "fusoes_epicas": [
